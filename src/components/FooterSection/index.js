@@ -10,7 +10,7 @@ function FooterSection({ isInvitation }) {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                <h2 className="main-font">Terima Kasih</h2>
+                <h2 className="main-font">Virginia</h2>
                 <p className="info">
                   Berdasarkan kondisi saat ini, tanpa mengurangi rasa hormat, diharapkan tetap bisa menjalin silaturahmi
                   melalui media online, bukan dengan kontak fisik secara langsung. <br />
