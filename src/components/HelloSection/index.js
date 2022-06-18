@@ -7,7 +7,7 @@ import Groom from '@assets/images/p-indra.jpg';
 import { styWrapper } from './styles';
 
 function HelloSection({ isInvitation }) {
-  const finalSubtitle = isInvitation ? '03 Oktober 2020, HARRIS Hotel Sentraland, Semarang' : 'Sabtu, 03 Oktober 2020';
+  const finalSubtitle = isInvitation ? '03 Oktober 2022, HARRIS Hotel Sentraland, Virginia' : 'Sabtu, 03 Oktober 2022';
 
   return (
     <Fragment>
@@ -18,7 +18,7 @@ function HelloSection({ isInvitation }) {
               <h2 className="main-font">Assalamualaikum Wr. Wb</h2>
               <h3 className="sub-title hs">{finalSubtitle}</h3>
               <p className="info">
-                Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk
+                Molli Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk
                 rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan
                 keberkahan.
               </p>
